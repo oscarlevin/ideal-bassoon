@@ -5,4 +5,12 @@
 
   <p> Text of section. </p>
 
+  <p>
+    This is a paragraph that has emphasized text.  <em>Really</em>!!  I <q>love</q> pretext.  Sine is written <m>\sin(x)</m>.
+    <me>
+      \sin^2 x + \cos^2 x = 1!
+    </me>.
+    
+  </p>
+
 </section>
